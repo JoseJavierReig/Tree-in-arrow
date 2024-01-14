@@ -12,17 +12,17 @@ The Tic Tac Toe game is a classic two-player strategy game. The goal is to place
 ## Instalación 
 1. Clone the repository to your local machine.
    ```
-    - git clone https://github.com/JoseJavierReig/Three-in-arrow.git
+    git clone https://github.com/JoseJavierReig/Three-in-arrow.git
    ```
 2. Install dependencies using npm
    ```
-   - cd Three-in-arrow
-   - npm install
+   cd Three-in-arrow
+   npm install
    ```
 
 ## Run project
 1. Run the application in development mode.
    ```
-   - npm run serve
+   npm run serve
    ```
 
