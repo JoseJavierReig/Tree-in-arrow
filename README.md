@@ -30,7 +30,8 @@ The Tic Tac Toe game is a classic two-player strategy game. The goal is to place
    ```
 
 ## Screenshots
-![Uploading image.png…]()
+![image](https://github.com/JoseJavierReig/Tree-in-arrow/assets/153424810/e649c98e-6aae-42a6-be92-52969daae1e4)
+
 
 
 
